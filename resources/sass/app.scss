@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+#loading svg path, #loading svg rect{
+    fill: #bc4f00;
+}
