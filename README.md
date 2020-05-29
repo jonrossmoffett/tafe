@@ -1,6 +1,6 @@
 this readme file is included in all the projects and shows how to run and add the project aswell as showing some of the features off incase of not being able to get the website running, they are recorded in differant parts
 
-watch part 1 install the database
+watch part 1 install the database . SQL file is called laravel.sql and is located in project root
 https://youtu.be/sMNZNDYANw4
 
 watch part 2 configure website
